@@ -1,0 +1,3 @@
+compiler le projet = compiler le main (ex : /tp5$ javac src/battleship/battleshipMain.java -d classes
+
+executer main : /tp5$ java -cp classes battleship.battleshipMain
